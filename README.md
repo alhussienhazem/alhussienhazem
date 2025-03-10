@@ -43,7 +43,6 @@ Currently, I’m focused on **Python, C++, React, and UI/UX design**, constantly
 ✔ Build a **strong technical foundation** in software development and AI.  
 ✔ Work on **real-world projects** that solve problems and provide value.  
 ✔ Gain **internships and freelance experience** to grow my expertise.  
-✔ **Start a tech-driven business** that has a meaningful impact.  
 ✔ Connect with **like-minded professionals and mentors** in the tech industry.  
 
 ---
