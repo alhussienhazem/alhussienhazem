@@ -54,7 +54,7 @@ A **web-based table comparing futuristic games**, integrating structured data, e
 ## 🌍 Let's Connect  
 🔗 **LinkedIn:** [Alhussien Hazem](https://www.linkedin.com/in/alhussienhazem/)  
 📧 **Email:** hussein-hazem@outlook.com  
-🚀 **Portfolio:** [Coming Soon]  
+🚀 **Portfolio:** [Alhussien Hazem](https://alhussien.net/) 
 
 ---
 
