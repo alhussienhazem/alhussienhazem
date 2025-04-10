@@ -48,6 +48,14 @@ A **web-based table comparing futuristic games**, integrating structured data, e
 
 🔗 **Check it out:** [GitHub Repository](https://github.com/alhussienhazem/FuturisticGamesTable)  
 
+
+### 📝 [CLI To-Do List](https://github.com/alhussienhazem/CLI-To-Do-List)  
+A **command-line to-do list manager** with a colorful UI, task prioritization, and persistent file storage. Built using:  
+🔹 **Built with:** Python, Colorama  
+🔹 **Features:** Priority-based sorting, interactive CLI, auto-saving to file  
+
+🔗 **Check it out:** [GitHub Repository](https://github.com/alhussienhazem/CLI-To-Do-List)  
+
 ---
 
 
