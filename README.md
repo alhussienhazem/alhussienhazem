@@ -1,4 +1,4 @@
-# Hi there, I'm Alhussien Hazem! 👋  
+![image](https://github.com/user-attachments/assets/8afd49c0-6b79-4d3f-8892-257cd8c89a35)# Hi there, I'm Alhussien Hazem! 👋  
 
 ## 💻 **Computer Science Student | Aspiring Software Developer**  
 
@@ -22,8 +22,8 @@ I love turning ideas into impactful solutions through code ✨.
 
 ## 💻 Core skills 
 ```yaml
-🟢 Python        🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜  60%   
-🟡 HTML/CSS      🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜  60%  
+🟢 Python        🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  50%   
+🟡 HTML/CSS      🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  50%  
 🟡 JavaScript    🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45% 
 🟠 C++           🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜  30%  
 🔵 React         🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜  20%  
