@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8afd49c0-6b79-4d3f-8892-257cd8c89a35)# Hi there, I'm Alhussien Hazem! 👋  
+Hi there, I'm Alhussien Hazem! 👋  
 
 ## 💻 **Computer Science Student | Aspiring Software Developer**  
 
