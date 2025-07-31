@@ -66,13 +66,4 @@ A **command-line to-do list manager** with a colorful UI, task prioritization, a
 
 ---
 
-
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alhussienhazem&show_icons=true&theme=radical)
-
-
-
-
----
-
 🔥 *"Technology is the bridge between ideas and impact. I'm here to build that bridge."*  
