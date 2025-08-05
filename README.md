@@ -5,9 +5,6 @@
 Passionate about **learning and exploring** AI/ML and modern web development.  
 Discovering the exciting intersection of **artificial intelligence**, **full-stack development**, and **data science** to understand how to create impactful applications ✨.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alhussienhazem&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alhussienhazem&layout=compact&theme=radical)
-
 ---
 
 ## 🚀 **About Me**
@@ -30,20 +27,20 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 ---
 
 ## 💻 Core Skills
+```yaml
+# Programming Languages
+🐍 Python        🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
+⚙️ C++           🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜  30%
 
-<div align="center">
+# Web Development  
+🌐 HTML/CSS      🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
+⚡ JavaScript    🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
+⚛️ React         🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  40%
 
-![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-70%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![C++](https://img.shields.io/badge/C++-30%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ML](https://img.shields.io/badge/ML-55%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![DL](https://img.shields.io/badge/DL-45%25-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-</div>
+# AI/ML
+🤖 Machine Learning 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  55%
+🧠 Deep Learning   🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
+```
 
 ## **Other Skills**
 
