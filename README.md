@@ -31,13 +31,19 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 
 ## 💻 Core Skills
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-70%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![C++](https://img.shields.io/badge/C++-30%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/ML-55%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/DL-45%25-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![ML](https://img.shields.io/badge/ML-55%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![DL](https://img.shields.io/badge/DL-45%25-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+</div>
 
 ## **Other Skills**
 
