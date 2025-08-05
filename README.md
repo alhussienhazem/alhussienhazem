@@ -42,12 +42,11 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 🧠 Deep Learning   🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
 ```
 
-## 🛠️ **Other Skills**
+## 🎨 **Technical & Creative Skill Set**
 
 🎨 **UI/UX Design & Prototyping**  
 📊 **Microsoft Office** (Word, Excel, PowerPoint)  
 🔬 **Data Analysis & Visualization**  
-🤖 **TensorFlow & Keras**  
 📈 **Model Training & Evaluation**  
 🌐 **Responsive Web Design**  
 🚀 **Model Deployment**  
@@ -103,7 +102,8 @@ A **command-line to-do list manager** with a colorful UI, task prioritization, a
 🔹 **Built with:**  
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Colorama](https://img.shields.io/badge/Colorama-FF6F00?style=for-the-badge&logo=python&logoColor=white) 
+![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>  
 🔹 **Features:** Priority-based sorting, interactive CLI, auto-saving to file, task management, persistent storage
@@ -164,7 +164,7 @@ A **web-based table comparing futuristic games**, integrating structured data, e
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhussienhazem/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://alhussien.net/)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alhussien.net/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussein-hazem@outlook.com)
 
 </div>
