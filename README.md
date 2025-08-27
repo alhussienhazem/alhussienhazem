@@ -29,36 +29,42 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 ## 💻 Core Skills
 ```yaml
 # Programming Languages
-🐍 Python        🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
-⚙️ C++           🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜  30%
+🐍 Python        ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
+⚙️ C++           ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜  30%
 
 # Web Development  
-🌐 HTML/CSS      🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
-⚡ JavaScript    🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
-⚛️ React         🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  40%
+🌐 HTML/CSS      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
+⚡ JavaScript    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
+⚛️ React         ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  40%
 
 # AI/ML
-🤖 Machine Learning 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  55%
-🧠 Deep Learning   🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
+🤖 Machine Learning ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  55%
+🧠 Deep Learning   ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
+
+# Version Control & Collaboration
+🔧 Git            ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  75%
+🐙 GitHub         ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  75%
 ```
 
 ## 🎨 **Technical & Creative Skill Set**
 
-🎨 **UI/UX Design & Prototyping**  
-📊 **Microsoft Office** (Word, Excel, PowerPoint)  
-🔬 **Data Analysis & Visualization**  
-📈 **Model Training & Evaluation**  
-🌐 **Responsive Web Design**  
-🚀 **Model Deployment**  
-💡 **Design Thinking**  
+| Category | Skills |
+|----------|---------|
+| 🎨 **Design & Creativity** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) UI/UX (Figma) Design & Prototyping, 💡 Design Thinking |
+| 📊 **Office & Productivity** | ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) Microsoft Office (Word, Excel, PowerPoint) |
+| 🔬 **Data & Analytics** | 📊 Data Analysis & Visualization, 🤖 Model Training & Evaluation |
+| 🌐 **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) Responsive Web Design |
+| 🚀 **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white) Model Deployment |  
 
 ## 🤝 **Soft Skills**
 
-💬 **Communication & Teamwork**  
-🔍 **Problem-Solving & Adaptability**  
-👑 **Leadership Skills**  
-📈 **Marketing & Business Awareness**  
-🎯 **Brand Representation**
+| Category | Skills |
+|----------|---------|
+| 💬 **Communication** | 🤝 Communication & Teamwork |
+| 🔍 **Problem-Solving** | 🧩 Problem-Solving & Adaptability |
+| 👑 **Leadership** | 👑 Leadership Skills |
+| 📈 **Business** | 💼 Marketing & Business Awareness |
+| 🎯 **Personal** | ⭐ Brand Representation |
 
 ---
 
