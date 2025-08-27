@@ -34,10 +34,6 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 
 ## 💻 **Core Skills**
 
-<div align="center">
-
-### 🚀 **Skill Mastery Dashboard**
-
 ```yaml
 # Programming Languages
 🐍 Python        🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
@@ -56,14 +52,6 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 🔧 Git            🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  75%
 🐙 GitHub         🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  75%
 ```
-
-</div>
-
-**💡 Skill Insights:**
-- **Python (70%)** - Primary language for AI/ML and data science projects
-- **Web Technologies (70%)** - Strong foundation in modern frontend development  
-- **AI/ML (55%)** - Growing expertise in machine learning and deep learning
-- **Git/GitHub (75%)** - Proficient in collaborative development workflows
 
 ## 🎨 **Technical & Creative Skill Set**
 
@@ -86,6 +74,8 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 - **Practical Development** - Building solutions that work in real-world scenarios
 - **Modern Web Development** - Creating responsive, user-friendly interfaces
 - **AI/ML Projects** - Working with machine learning and data science tools  
+
+---
 
 ## 🤝 **Soft Skills**
 
