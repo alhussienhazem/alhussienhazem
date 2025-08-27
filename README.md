@@ -38,12 +38,24 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 
 ### 🚀 **Skill Mastery Dashboard**
 
-| **Skill Category** | **Technologies** | **Proficiency Level** | **Progress Bar** |
-|-------------------|------------------|----------------------|------------------|
-| 🐍 **Programming Languages** | Python, C++ | Advanced & Intermediate | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
-| 🌐 **Web Development** | HTML/CSS, JavaScript, React | Advanced & Intermediate | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
-| 🤖 **AI/ML** | Machine Learning, Deep Learning | Intermediate | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ |
-| 🔧 **Version Control** | Git, GitHub | Advanced | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+```yaml
+# Programming Languages
+🐍 Python        🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
+⚙️ C++           🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜  30%
+
+# Web Development  
+🌐 HTML/CSS      🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
+⚡ JavaScript    🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
+⚛️ React         🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  40%
+
+# AI/ML
+🤖 Machine Learning 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  55%
+🧠 Deep Learning   🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
+
+# Version Control & Collaboration
+🔧 Git            🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  75%
+🐙 GitHub         🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  75%
+```
 
 </div>
 
@@ -70,10 +82,10 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 </div>
 
 **🌟 Key Strengths:**
-- **Design-First Approach** - Combining technical skills with creative problem-solving
-- **Data-Driven Development** - Building solutions based on analytical insights
-- **Modern Web Standards** - Creating responsive, user-friendly interfaces
-- **AI/ML Integration** - Deploying intelligent solutions for real-world applications  
+- **Creative Problem-Solving** - Combining technical skills with design thinking
+- **Practical Development** - Building solutions that work in real-world scenarios
+- **Modern Web Development** - Creating responsive, user-friendly interfaces
+- **AI/ML Projects** - Working with machine learning and data science tools  
 
 ## 🤝 **Soft Skills**
 
@@ -83,19 +95,19 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 
 | **Competency Area** | **Core Abilities** | **Real-World Applications** |
 |---------------------|-------------------|------------------------------|
-| 💬 **Communication** | Communication & Teamwork, Cross-functional Collaboration | Team Projects, Client Presentations, Technical Documentation |
-| 🔍 **Problem-Solving** | Problem-Solving & Adaptability, Critical Thinking | Debugging Complex Issues, Optimizing Solutions, Innovation |
-| 👑 **Leadership** | Leadership Skills, Team Management | Project Coordination, Mentoring Peers, Decision Making |
-| 📈 **Business** | Marketing & Business Awareness, Strategic Thinking | Market Analysis, Product Strategy, Business Development |
-| 🎯 **Personal** | Brand Representation, Professional Growth | Personal Branding, Continuous Learning, Career Development |
+| 💬 **Communication** | Communication & Teamwork, Cross-functional Collaboration | Team Projects, Presentations, Technical Documentation |
+| 🔍 **Problem-Solving** | Problem-Solving & Adaptability, Critical Thinking | Debugging Issues, Finding Solutions, Creative Thinking |
+| 👑 **Leadership** | Leadership Skills, Team Management | Project Coordination, Helping Peers, Decision Making |
+| 📈 **Business** | Marketing & Business Awareness, Strategic Thinking | Business Understanding, Strategic Planning, Growth Mindset |
+| 🎯 **Personal** | Brand Representation, Professional Growth | Personal Branding, Continuous Learning, Self-Improvement |
 
 </div>
 
 **🚀 Professional Impact:**
-- **Collaborative Excellence** - Building strong team dynamics and cross-functional partnerships
-- **Innovation Mindset** - Approaching challenges with creative and analytical thinking
-- **Strategic Vision** - Understanding business context and market opportunities
-- **Growth-Oriented** - Continuously developing both technical and interpersonal skills
+- **Team Collaboration** - Working well with others and building positive team dynamics
+- **Problem-Solving** - Approaching challenges with creative and logical thinking
+- **Business Understanding** - Learning about business context and opportunities
+- **Continuous Growth** - Always working to improve technical and personal skills
 
 ---
 
