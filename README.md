@@ -63,7 +63,7 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 |------------|----------------------|--------------------------|
 | 🎨 **Design & Creativity** | UI/UX (Figma) Design & Prototyping, Design Thinking | Figma, Creative Problem Solving |
 | 📊 **Office & Productivity** | Microsoft Office Suite, Document Management | Word, Excel, PowerPoint, Project Planning |
-| 🔬 **Data & Analytics** | Data Analysis & Visualization, Model Training & Evaluation | Jupyter, Statistical Analysis, ML Workflows |
+| 🔬 **Data & Analytics** | Data Analysis & Visualization, Model Training & Evaluation | Google Colab, Statistical Analysis, ML Workflows |
 | 🌐 **Web Development** | Responsive Web Design, Modern UI/UX | HTML5, CSS3, JavaScript, Responsive Frameworks |
 | 🚀 **AI/ML** | Model Deployment, ML Pipeline Development | TensorFlow, Streamlit, PyQt5, Production Systems |
 
@@ -113,13 +113,13 @@ Discovering the exciting intersection of **artificial intelligence**, **full-sta
 
 ### 🤖 **ML/DL & AI & Python**
 
-#### 🦴 Bone Fracture Detection with Deep Learning
+### 🦴 Bone Fracture Detection with Deep Learning
 
 A **comprehensive deep learning solution** for bone fracture detection using X-ray images, implementing both transfer learning with Xception architecture and custom CNN models from scratch. Built using:  
 🔹 **Built with:**  
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>  
 🔹 **Features:** 98.81% validation accuracy (Xception), 93.87% validation accuracy (Custom CNN), data augmentation, model comparison, real-time prediction testing, comprehensive data visualization  
@@ -132,14 +132,14 @@ A **comprehensive deep learning solution** for bone fracture detection using X-r
 
 ---
 
-#### 🌍 Country Clustering Analysis
+### 🌍 Country Clustering Analysis
 
 A **comprehensive clustering analysis** on country socioeconomic data using multiple advanced algorithms (K-Means, Hierarchical, DBSCAN) with enhanced data preprocessing and evaluation methods. Built using:  
 
 🔹 **Built with:**  
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 </div>  
 
@@ -153,7 +153,7 @@ A **comprehensive clustering analysis** on country socioeconomic data using mult
 
 ---
 
-#### 📝 CLI To-Do List
+### 📝 CLI To-Do List
 
 A **command-line to-do list manager** with a colorful UI, task prioritization, and persistent file storage. Built using:  
 
@@ -173,7 +173,7 @@ A **command-line to-do list manager** with a colorful UI, task prioritization, a
 
 ### 🌐 **Frontend & Web Development**
 
-#### 🎯 Dead Last
+### 🎯 Dead Last
 
 A **cyberpunk-themed card game scoring web app** where the lowest score wins! Track your games in style with neon aesthetics and smooth animations. Built using:  
 
@@ -194,7 +194,7 @@ A **cyberpunk-themed card game scoring web app** where the lowest score wins! Tr
 
 ---
 
-#### 🛍️ Cara Fashion E-Commerce Website
+### 🛍️ Cara Fashion E-Commerce Website
 
 A **comprehensive modern responsive fashion e-commerce website** with complete online shopping experience. Built using:  
 
@@ -215,7 +215,7 @@ A **comprehensive modern responsive fashion e-commerce website** with complete o
 
 ---
 
-#### 🎮 Futuristic Games Table
+### 🎮 Futuristic Games Table
 
 A **web-based table comparing futuristic games**, integrating structured data, external references, and a sleek user interface. Built using:  
 
